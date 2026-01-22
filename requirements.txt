@@ -1,0 +1,11 @@
+streamlit
+crewai
+crewai-tools
+python-dotenv
+langchain-openai
+langchain
+openai
+youtube-transcript-api
+requests
+pyyaml
+tqdm
