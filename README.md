@@ -11,7 +11,7 @@ This project leverages **OpenRouter** to dynamically switch between powerful LLM
 ## 🚀 Why This Project?
 
 Creators and researchers often spend hours watching videos just to identify patterns.
-This tool solves that by deploying a **team of AI agents** that:
+This tool solves that by leveraging a **team of AI agents** that:
 
 * Fetch YouTube video transcripts
 * Analyze recurring themes
