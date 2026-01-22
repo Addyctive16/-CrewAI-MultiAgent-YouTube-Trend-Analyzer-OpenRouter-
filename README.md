@@ -40,7 +40,7 @@ graph TD
     C --> D[Initialize Session State]
     end
 
-    subgraph "DATA SCRAPING (For Each URL)"
+    subgraph "DATA SCRAPING "
     D --> E[Resolve URL to Channel ID]
     E --> F[YouTube API Search - Up to 3 Videos]
     F --> G[Extract Transcripts/Metadata]
